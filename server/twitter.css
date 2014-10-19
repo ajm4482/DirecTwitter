@@ -1,0 +1,53 @@
+ #invsible{
+                 width: 100%;
+                 height: 80%;    /*********** UPPER SPACE ************/
+             }
+             #tweet_box{
+                 font-family: Arial;
+                 font-size: .85em;
+                 color: #544132;
+                 height: 12%;/*15*/    /*********** TWEET SPACE ************/
+                 width: 26%;
+                 background: rgba(174, 229, 237, .85);
+                 float: right;
+                 margin-right: 15%;
+                 padding: 1%;
+             }
+             #prof_pic{
+                 height: auto;
+                 width: 20%; /*25%*/;
+                 float: left;
+             }
+             #tweet_bird{
+                 width: 5.3%;
+                 height: auto;
+                 float: right;
+             }
+             #name_container{
+
+             }
+             #real_name{
+                 margin-left: 2.6%;/* 7.2% */
+                 float: left;
+                 font-weight: 200;
+                 font-weight: 600;
+             }
+             #tweet{
+                 position: relative;
+                 float: right;
+                 width: 78%; /*68*/
+             }
+             #tweet_time{
+                 float: right;
+                 width: 78%; /*68*/
+             }
+             .lower_faint_font{
+                 font-weight: 100;
+                 font-size: .75em;
+             }
+             #spacer{
+                 height: 6%;
+                 position: relative;
+                 float: right;
+                 width: 68%;
+             }
